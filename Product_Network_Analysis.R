@@ -3,7 +3,7 @@
 
 #DATA SET READ IN:
 #DATA SET CONTAINS PAIRS OF ORDER AND PRODUCTS
-
+#data source: https://www.kaggle.com/c/instacart-market-basket-analysis/data
 #-----------------------------------------------
 setwd("~/R_Projects/Network_Analysis")
 data <-read.csv('order_products__prior.csv')
